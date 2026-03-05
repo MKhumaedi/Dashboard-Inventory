@@ -1,13 +1,16 @@
-# 📸 Screenshots
-
-Add screenshots here to showcase the dashboard.
-
 <h2 align="center">Dashboard Inventory Preview</h2>
 
 <p align="center">
   <img src="public/Home.png" width="900">
 </p>
 ---
+<h2 align="center">Live Demo</h2>
+
+<p align="center">
+  <a href="https://your-demo-link.com">
+    <img src="https://img.shields.io/badge/VIEW-DEMO-green?style=for-the-badge&logo=vercel">
+  </a>
+</p>
 
 # 📊 Dashboard Inventory
 
