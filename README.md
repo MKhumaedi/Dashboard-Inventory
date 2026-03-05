@@ -7,7 +7,7 @@
 <h2 align="center">Live Demo</h2>
 
 <p align="center">
-  <a href="https://your-demo-link.com">
+  <a href="https://dashboard-inventory-nine.vercel.app/">
     <img src="https://img.shields.io/badge/VIEW-DEMO-green?style=for-the-badge&logo=vercel">
   </a>
 </p>
