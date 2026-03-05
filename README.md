@@ -1,3 +1,14 @@
+# 📸 Screenshots
+
+Add screenshots here to showcase the dashboard.
+
+<h2 align="center">Dashboard Inventory Preview</h2>
+
+<p align="center">
+  <img src="public/Home.png" width="900">
+</p>
+---
+
 # 📊 Dashboard Inventory
 
 ![React](https://img.shields.io/badge/React-18-blue)
@@ -5,16 +16,7 @@
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-UI-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-# 📸 Screenshots
 
-Add screenshots here to showcase the dashboard.
-
-Example:
-
-```
-./public/Home.png
-
----
 
 Modern **Inventory Management Dashboard** built with **React, Vite, and Material UI**.
 
