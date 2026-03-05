@@ -5,6 +5,17 @@
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-UI-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+# 📸 Screenshots
+
+Add screenshots here to showcase the dashboard.
+
+Example:
+
+```
+./public/Home.png
+
+---
+
 Modern **Inventory Management Dashboard** built with **React, Vite, and Material UI**.
 
 This project provides a clean and responsive interface to manage:
@@ -140,27 +151,6 @@ Using **Material UI responsive grid system**.
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots here to showcase the dashboard.
-
-Example:
-
-```
-/screenshots/dashboard.png
-/screenshots/orders.png
-/screenshots/inventory.png
-```
-
-Example preview:
-
-Dashboard Overview
-
-Orders Management
-
-Inventory Management
-
----
 
 # 👨‍💻 Author
 
